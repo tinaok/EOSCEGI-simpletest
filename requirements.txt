@@ -5,3 +5,4 @@ numpy
 pandas
 pooch
 xarray
+netCDF4
