@@ -1,0 +1,8 @@
+dask
+dask-gateway
+dask-labextension
+h5netcdfy
+numpy
+pandas
+pooch
+xarray
